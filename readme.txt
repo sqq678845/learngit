@@ -6,6 +6,6 @@ Creating a new branch is quick.
 ABC
 learn to hard
 
-
+Creating a new branch is quich & simple.
 
 
